@@ -1,1 +1,44 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+body {
+    background-color: rgb(240,230,230);
+  }
+
+  .image {width: 500px;
+          height: auto;
+          max-width: 100%;
+          display: block;
+          margin: 0 auto;
+  }
+
+.img-div {
+        width: 100%;
+        margin: 0 auto}
+        
+
+h1 { font-size: 50px;
+    text-align: center;
+    font-family: arial;
+    }
+
+p {font-size: 30px;
+   font-family: arial;}
+
+p1{font-size: 20px;
+   font-family: arial;}
+
+.blue-background {
+    background-color: rgb(230,200,240);
+  }
+
+.border {
+    border-color: #bbf;
+    border-width: 10px;
+    border-style: solid;
+    border-radius:10%;
+  }
+
+.caption {
+    margin: 15px 0 5px 150;
+}
 /* Copy and paste your CSS from CodePen into here */
